@@ -4,4 +4,6 @@ Credit card fraud happens when consumers give their credit card number to unfami
 
 ![alt text](https://unsplash.com/photos/zrF-HyAPUmM/nathana-reboucas-zrF-HyAPUmM-unsplash.jpg)
 
+cardmapr-nl-To2HQm-4688-unsplash.jpg
+
 In this notebook we will develop a few ML models using anonymized credit card transaction data. The challenge behind fraud detection is that frauds are far less common as compared to legal transactions
