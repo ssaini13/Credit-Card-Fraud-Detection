@@ -9,5 +9,7 @@ In this notebook, ML models has been developed using anonymized credit card tran
 Non-fraud transactions: 99.83%;
 Fraud transactions: 0.17%
 
+**Results:**
+
 Random Forest and XGBoost Classifiers with SMOTE gave us the best results being able to detect more than 80% fraud transactions and at the same time not classifying a lot of non-fraud transactions as fraud.
 
